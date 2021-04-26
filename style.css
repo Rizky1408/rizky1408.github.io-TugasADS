@@ -1,0 +1,29 @@
+body {
+	font: 16px/28px arial, sans-serif;
+	background-image: url(img/bg.png);
+	
+}
+
+.container {
+	width: 800px;
+	margin: auto;
+	background-image: url(img/bg1.jpg);
+	color: black;
+	padding-bottom: 30px;
+
+}
+
+.header {
+	padding: 20px;
+}
+
+h3 , h4 {
+	text-align: center;
+}
+
+p {
+	color: black;
+}
+
+
+
