@@ -25,5 +25,15 @@ p {
 	color: black;
 }
 
+@media (max-width: 600px){
+
+	body {
+		padding: 15px;
+	}
+
+	.pastebin iframe {
+		width: 400px;
+	}
+}
 
 
