@@ -7,7 +7,7 @@ body {
 .container {
 	width: 800px;
 	margin: auto;
-	background-image: url(img/bg1.jpg);
+	background-color: #eaeaea;
 	color: black;
 	padding-bottom: 30px;
 
@@ -28,12 +28,17 @@ p {
 @media (max-width: 600px){
 
 	body {
-		padding: 15px;
+		background-image: none;
 	}
 
-	.pastebin iframe {
-		width: 400px;
+	.container {
+		width: 100%;
+		height: auto;
+		padding: 0px;
+		margin: 0px;
 	}
+
+	
 }
 
 
