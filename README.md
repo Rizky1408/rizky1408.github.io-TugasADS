@@ -1,6 +1,6 @@
 #Demo Tugas
 <br>
 <img src="https://github.com/Rizky1408/rizky1408.github.io-TugasADS/blob/main/img/demotugas.png" width="450">
-<p> Link Demo <a href="https://rizky1408.github.io/rizky1408.github.io-TugasADS/">Disini</a></p>
+<p> Link Demo <a href="https://rizky1408.github.io/rizky1408.github.io-TugasADS/" target="blank">Disini</a></p>
 
 #Tugas Algoritma
